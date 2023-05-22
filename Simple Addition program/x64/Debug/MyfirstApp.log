@@ -1,0 +1,3 @@
+﻿  MyfirstApp.cpp
+C:\Users\USER\MyfirstApp\MyfirstApp.cpp(7,9): warning C4101: 'Schoolfees': unreferenced local variable
+  MyfirstApp.vcxproj -> C:\Users\USER\MyfirstApp\x64\Debug\MyfirstApp.exe
